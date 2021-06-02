@@ -1,9 +1,9 @@
 # Reproducible-research_Course-proj_1
 ---
-title: "Reproducible Research course proj-1"
+"Reproducible Research course proj-1"
 author: "Owen Larson"
 date: "6/2/2021"
-output: html_document
+html
 ---
 
 ##Assignment Instructions
