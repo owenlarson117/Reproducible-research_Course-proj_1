@@ -5,7 +5,7 @@ author: "Owen Larson"
 date: "6/2/2021"
 html
 ---
-
+(originally written in markdown)
 ##Assignment Instructions
 1.Code for reading in the dataset and/or processing the data
 2.Histogram of the total number of steps taken each day
